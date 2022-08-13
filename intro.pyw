@@ -4,7 +4,7 @@ import os
 from typing import Tuple, List
 
 
-QUOTES_FILE = "C:\\Docs\\Git\\narrator\\quotes.txt"
+QUOTES_FILE = "Your path to file"
 
 
 def get_quote(path: str) -> Tuple[str, str]:
