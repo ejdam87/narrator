@@ -1,4 +1,4 @@
-13
+5
 Albert Einstein; The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.
 Robert M. Drake; You are only as free as you think you are and freedom will always be as real as you believe it to be.
 Oscar Wilde; Every saint has a past, and every sinner has a future.
@@ -35,3 +35,4 @@ Edward Abbey; Better a cruel truth than a comfortable delusion.
 Neil Strauss; Every strength is also a weakness. The opposite is true as well.
 Gabby Bernstein; Your positive energy leaves a powerful impression on the world.
 Albert Einstein; Once we accept our limits, we go beyond them.
+Plato; The first and greatest victory is to conquer self.

@@ -4,7 +4,7 @@ import os
 from typing import Tuple, List
 
 
-QUOTES_FILE = "Your path to file"
+QUOTES_FILE = "C:\\Docs\\Git\\narrator\\quotes.txt"
 
 
 def get_quote(path: str) -> Tuple[str, str]:
@@ -52,6 +52,5 @@ if __name__ == "__main__":
 
     speaker.say("Hello Adam!")
     speaker.say(f"{author} once said ... {quote}")
-    speaker.say("I hope this thought will be helpful today")
 
     speaker.runAndWait()
